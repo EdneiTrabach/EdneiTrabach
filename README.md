@@ -1,8 +1,9 @@
 - Hi, I’m @EdneiTrabach
 - I’m interested in  trabalhar como programador/ dev. 
 - Theoretical experience in: Programming Logic, GIT, MySQL, PostgreSQL, Basic Java.
-- I’m currently learning Java - Backend
-- I’m looking to collaborate  em equipe , desenvolver habilidades e trazer resultados positivos
+- I’m currently learning Java - Backend.
+- Looking for first opportunity in the market.
+- I'm looking to collaborate as a team, develop skills and bring positive results.
 - How to reach me e-mail edneitrabach@hotmail.com
 
 <!---
