@@ -1,3 +1,9 @@
+# 😃 About me:
+
+
+
+
+
 - Hi, I’m @EdneiTrabach
 - I’m interested in  trabalhar como programador/ dev. 
 - Theoretical experience in: Programming Logic, GIT, MySQL, PostgreSQL, Basic Java.
