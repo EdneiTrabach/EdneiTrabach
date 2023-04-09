@@ -1,5 +1,5 @@
 # 😃 About Me:
-👩‍💻 I'm currently working at E&L Produções de Software<br>📚 Studying study systems analysis and development at multivix<br>
+👩‍💻 I'm currently working at E&L Produções de Software<br>📖 Studying study systems analysis and development at multivix<br> 🏍️ Motorcycle lover<br>
 
 
 ## 🌐 Socials:
