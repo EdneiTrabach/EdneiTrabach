@@ -8,9 +8,9 @@
 - 👨‍💻 All of my projects are available at [https://edneitrabach.vercel.app/](https://edneitrabach.vercel.app/)
 
 - 📫 How to reach me **edneitrabach@hotmail.com**
-- 
+
 - 📖 Studying study systems analysis and development at multivix
-- 
+
 - 🏍️ Motorcycle lover
 
 <h3 align="left">Connect with me:</h3>
