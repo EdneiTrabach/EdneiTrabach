@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **edneitrabach@hotmail.com**
 
-- 📖 Studying study systems analysis and development at multivix
+- 📖 Studying systems analysis and development at multivix
 
 - 🏍️ Motorcycle lover
 
