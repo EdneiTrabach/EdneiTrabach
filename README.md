@@ -11,6 +11,17 @@
 
 - 🔭 I’m currently working at **E&L Produções de Software LTDA.**
 
+- 💻 **Experiência Profissional:**
+  - Desenvolvedor front-end com React, Angular, Vue.js, Nuxt.js, TypeScript e JavaScript
+  - Domínio em frameworks CSS (Bootstrap, Tailwind) e Design Systems
+  - Experiência em arquitetura de software, SOLID e Clean Architecture
+  - Proficiência em CI/CD, DevOps e práticas de qualidade
+  - Expertise em metodologias ágeis e Git/GitFlow
+  - Desenvolvimento fullstack com Java, GWT, Maven, Wildfly
+  - Experiência em banco de dados PostgreSQL e APIs RESTful
+  - Especialista em interfaces responsivas e acessíveis (WCAG/SEO)
+  - Background em gestão Administrativa e Financeira
+
 - 👨‍💻 All of my projects are available at [https://edneitrabach.vercel.app/](https://edneitrabach.vercel.app/)
 
 - 📫 How to reach me **edneitrabach@gmail.com**
@@ -55,6 +66,30 @@
   <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> 
   </a> 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  </a>
 </p>
 
 <p>
