@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://edneitrabach.vercel.app/](https://edneitrabach.vercel.app/)
 
-- 📫 How to reach me **edneitrabach@hotmail.com**
+- 📫 How to reach me **edneitrabach@gmail.com**
 
 - 📖 Studying systems analysis and development at multivix
 
