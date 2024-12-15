@@ -22,7 +22,7 @@
   - Especialista em interfaces responsivas e acessíveis (WCAG/SEO)
   - Background em gestão Administrativa e Financeira
 
-- 👨‍💻 All of my projects are available at [https://edneitrabach.vercel.app/](https://edneitrabach.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://edneitrabach.com.br](https://edneitrabach.com.br)
 
 - 📫 How to reach me **edneitrabach@gmail.com**
 
