@@ -13,6 +13,8 @@ jobs:
   update-readme:
     name: Update Profile README
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -20,6 +22,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
+          ref: main
 
       - name: Generate GitHub stats
         uses: anmol098/waka-readme-stats@master
@@ -37,10 +40,18 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      - name: Generate Spotify stats
+        uses: kittinan/spotify-github-profile@master
+        with:
+          spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add dist/
+          git pull origin main --rebase
+          git add dist/ README.md
           git commit -m "docs: atualiza contribuições animation"
-          git push
+          git push origin main

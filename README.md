@@ -94,9 +94,9 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/edneitrabach">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=edneitrabach&count=100&unique=false" alt="Spotify recently played"  />
-  </a>
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=edneitrabach&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=edneitrabach&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
+
 </div>
 
 ###
@@ -132,3 +132,4 @@
 </div>
 
 ###
+
