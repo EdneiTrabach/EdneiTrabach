@@ -11,10 +11,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=edneitrabach&theme=dracula&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Troféus"/>
   </p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edneitrabach)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://edneitrabach.com.br)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edneitrabach@gmail.com)
-
 </div>
 
 ## 🔭 Atualmente
