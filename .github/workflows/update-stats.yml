@@ -2,10 +2,10 @@ name: Update Profile README
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Executa duas vezes por dia
-  workflow_dispatch:  # Permite execução manual
+    - cron: "0 */12 * * *" # Executa duas vezes por dia
+  workflow_dispatch: # Permite execução manual
   push:
-    branches: [ main ]
+    branches: [main]
     paths-ignore:
       - "README.md"
 
@@ -13,14 +13,14 @@ jobs:
   update-readme:
     name: Update Profile README
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-      
+
       - name: Generate GitHub stats
         uses: anmol098/waka-readme-stats@master
         with:
@@ -30,20 +30,20 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
           SHOW_EDITORS: "False"
-          
+
       - name: Generate snake animation
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
-          
+
       - name: Update README.md
         run: |
           # Atualiza estatísticas do GitHub
           curl -H "Accept: application/vnd.github.v3+json" \
                -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
                https://api.github.com/users/${{ github.repository_owner }} > stats.json
-          
+
           # Atualiza o README com os dados mais recentes
           cat > README.md << EOF
           <div align="center">
