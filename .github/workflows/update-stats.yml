@@ -37,32 +37,10 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Update README.md
-        run: |
-          # Atualiza estatísticas do GitHub
-          curl -H "Accept: application/vnd.github.v3+json" \
-               -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-               https://api.github.com/users/${{ github.repository_owner }} > stats.json
-
-          # Atualiza o README com os dados mais recentes
-          cat > README.md << EOF
-          <div align="center">
-            <h1>👋 Olá, eu sou Ednei Trabach</h1>
-            
-            ![Visualizações](https://komarev.com/ghpvc/?username=edneitrabach&label=Visualizações&color=0e75b6&style=flat)
-            
-            [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edneitrabach&theme=dracula)](https://git.io/streak-stats)
-            
-            ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=edneitrabach&layout=compact&theme=dracula)
-            
-            ![Contribuições](./dist/github-contribution-grid-snake.svg)
-          </div>
-          EOF
-
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add README.md dist/
-          git commit -m "docs: atualiza README com estatísticas mais recentes"
+          git add dist/
+          git commit -m "docs: atualiza contribuições animation"
           git push
