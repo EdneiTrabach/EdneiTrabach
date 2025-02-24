@@ -31,15 +31,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Update README with Spotify
-        uses: kittinan/spotify-github-profile@v2.9.1
-        with:
-          api: true
-          theme: novatorem
-          accept_reuse_pending: true
-          count_private: true
-          token: ${{ secrets.GH_TOKEN }}
-
       - name: Push changes
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
