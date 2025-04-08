@@ -9,10 +9,10 @@
   "builds": [
     { "src": "api/*.js", "use": "@vercel/node" }
   ],
-  "routes": [
-    { "src": "/api/top-langs", "dest": "/api/top-langs.js" },
-    { "src": "/api/stats", "dest": "/api/stats.js" },
-    { "src": "/api/(.*)", "dest": "/api/$1.js" }
+  "rewrites": [
+    { "source": "/api/top-langs", "destination": "/api/top-langs.js" },
+    { "source": "/api/stats", "destination": "/api/stats.js" },
+    { "source": "/api/(.*)", "destination": "/api/$1.js" }
   ],
   "headers": [
     {
