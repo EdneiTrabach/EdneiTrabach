@@ -100,9 +100,10 @@
 ###
 
 <div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=edneitrabach&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=edneitrabach)
-
+  <!-- Corrigindo o Spotify para o formato anterior -->
+  <a href="https://open.spotify.com/user/edneitrabach" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=edneitrabach&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile" />
+  </a>
 </div>
 
 ###
@@ -129,4 +130,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/EDNEITRABACH/EDNEITRABACH/output/snake.svg" alt="Snake animation" />
+<!-- Animação Snake -->
+<a href="https://github.com/EdneiTrabach">
+  <img src="https://raw.githubusercontent.com/EDNEITRABACH/EDNEITRABACH/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</a>

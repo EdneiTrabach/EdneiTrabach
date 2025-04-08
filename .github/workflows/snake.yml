@@ -9,15 +9,13 @@ on:
   push:
     branches:
       - main
-    paths-ignore:
-      - "README.md"
 
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
@@ -28,14 +26,16 @@ jobs:
           ref: main
 
       - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?palette=github-dark
             dist/github-contribution-grid-snake.svg
-
-      - name: Push snake.svg to the output branch
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          type: svg
+          
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
@@ -43,11 +43,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit changes
+      - name: Commit changes to main
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git commit -m "docs: atualiza contribuições animation" || exit 0
+          git commit -m "docs: atualiza animação de contribuições" || exit 0
           git pull --rebase origin main
-          git push
+          git push || echo "Nothing to push"
