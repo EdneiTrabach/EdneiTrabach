@@ -14,27 +14,20 @@
 
 ### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdneiTrabach&show_icons=true&theme=tokyonight&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EdneiTrabach&layout=compact&langs_count=8&theme=tokyonight)
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EDNEITRABACH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=EDNEITRABACH&locale=pt-br&mode=weekly&theme=prussian&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EDNEITRABACH&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=prussian&hide_border=true" height="150" alt="languages graph"  />
-  <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EDNEITRABACH&radius=16&theme=nord&area=false&order=5&bg_color=#000&color=#fff&title_color=#3b82f6&area_color=#8b5cf6)&point=#8b5cf6)&line=#3b82f6" height="150" alt="activity-graph graph"  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=EdneiTrabach&show_icons=true&theme=prussian&count_private=true&hide_border=true&locale=pt-br" height="170" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdneiTrabach&layout=compact&langs_count=8&theme=prussian&hide_border=true&locale=pt-br" height="170" alt="Linguagens mais usadas" />
 
-###
-
+  <img src="https://streak-stats.demolab.com?user=EDNEITRABACH&locale=pt-br&mode=weekly&theme=prussian&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D" height="170" alt="streak graph" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EDNEITRABACH&radius=16&theme=nord&area=false&order=5&hide_border=true" height="300" alt="activity-graph" />
 </div>
 
 ###
 
 <div align="center">
   <!-- Ícones de tecnologias -->
-  <!-- (mantive tudo igual) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -104,7 +97,7 @@
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=edneitrabach&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=edneitrabach)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=edneitrabach&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=edneitrabach)
 
 </div>
 
