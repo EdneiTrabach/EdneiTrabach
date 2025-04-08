@@ -12,6 +12,12 @@
 
 ###
 
+### 📊 Estatísticas do GitHub
+
+![Ednei GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdneiTrabach&show_icons=true&theme=tokyonight&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EdneiTrabach&layout=compact&langs_count=8&theme=tokyonight)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EDNEITRABACH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=EDNEITRABACH&locale=pt-br&mode=weekly&theme=prussian&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
@@ -21,6 +27,7 @@
 </div>
 
 ###
+
 </div>
 
 ###
