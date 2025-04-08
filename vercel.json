@@ -4,7 +4,7 @@
     "silent": true
   },
   "env": {
-    "GITHUB_TOKEN": "@github_token"
+    "GITHUB_TOKEN": "@PAT_1"
   },
   "builds": [
     { "src": "api/*.js", "use": "@vercel/node" }
