@@ -3,9 +3,6 @@
   "github": {
     "silent": true
   },
-  "env": {
-    "GITHUB_TOKEN": "@PAT_1"
-  },
   "builds": [
     { "src": "api/*.js", "use": "@vercel/node" }
   ],

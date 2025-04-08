@@ -15,9 +15,13 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdneiTrabach&show_icons=true&theme=prussian&count_private=true&hide_border=true&locale=pt-br" height="170" alt="GitHub Stats" />
+  <a href="https://github.com/EdneiTrabach">
+    <img src="https://github-readme-stats.vercel.app/api?username=EdneiTrabach&show_icons=true&theme=prussian&count_private=true&hide_border=true&locale=pt-br" height="170" alt="GitHub Stats" />
+  </a>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdneiTrabach&layout=compact&langs_count=8&theme=prussian&hide_border=true&locale=pt-br" height="170" alt="Linguagens mais usadas" />
+  <a href="https://github.com/EdneiTrabach">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdneiTrabach&layout=compact&langs_count=8&theme=prussian&hide_border=true&locale=pt-br" height="170" alt="Linguagens mais usadas" />
+  </a>
 
   <img src="https://streak-stats.demolab.com?user=EDNEITRABACH&locale=pt-br&mode=weekly&theme=prussian&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D" height="170" alt="streak graph" />
   
