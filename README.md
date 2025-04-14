@@ -123,4 +123,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/EDNEITRABACH/EDNEITRABACH/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/EdneiTrabach/EdneiTrabach/output/snake.svg" alt="Snake animation" />
+
+###
