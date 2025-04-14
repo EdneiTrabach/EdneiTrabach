@@ -121,12 +121,8 @@
 
 ###
 
-<div align="center">
-🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=edneitrabach&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-</div>
-
-###
 
 <br clear="both">
 
