@@ -121,10 +121,14 @@
 
 ###
 
+<div align="center">
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=edneitrabach&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 <br clear="both">
+
+</div>
 
 <img src="https://raw.githubusercontent.com/EdneiTrabach/EdneiTrabach/output/snake.svg" alt="Snake animation" />
 <br clear="both">
