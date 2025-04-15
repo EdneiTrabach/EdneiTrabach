@@ -130,10 +130,17 @@
 
 </div>
 
+<div align="center">
+  <img src="https://api.githubtrends.io/user/svg/EdneiTrabach/repos?time_range=one_year&theme=dark" alt="GitHub Trends" />
+</div>
+
 <img src="https://raw.githubusercontent.com/EdneiTrabach/EdneiTrabach/output/snake.svg" alt="Snake animation" />
 <br clear="both">
 <br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI" alt="Dino">
+</p>
 
 ###
 
@@ -144,3 +151,5 @@
 </picture>
 
 ###
+
+
